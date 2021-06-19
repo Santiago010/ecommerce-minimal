@@ -1,0 +1,164 @@
+{
+  "products": [
+    {
+      "images": ["p1 (1).webp", "p1 (2).webp", "p1 (3).webp"],
+      "estado": "nuevo",
+      "descripción": "MacBook Air 13´´ 2020 - 8 Ram - 256gb - Touch id",
+      "valor": "4.199.999",
+      "datos_contacto": "32346545654",
+      "ubicación": "Bogotá"
+    },
+    {
+      "images": ["p2 (1).webp", "p2 (2).webp", "p2 (3).webp"],
+      "estado": "usado",
+      "descripción": "Los dispositivos Logitech cuentan con un diseño ergonómico pensado para tu confort.",
+      "valor": "139.900",
+      "datos_contacto": "08213343453",
+      "ubicación": "Bogotá"
+    },
+    {
+      "images": ["p3 (1).webp", "p3 (2).webp", "p3 (3).webp"],
+      "estado": "nuevo",
+      "descripción": "El iPhone 12 tiene una espectacular pantalla Super Retina XDR de 6.1 pulgadas",
+      "valor": "4.159.000",
+      "datos_contacto": "09623134324",
+      "ubicación": "Calí"
+    },
+    {
+      "images": ["p4 (1).webp", "p4 (2).webp", "p4 (3).webp"],
+      "estado": "usado",
+      "descripción": "Monitor curvo de juegos de 27 1000R con resolución WQHD.",
+      "valor": "1.599.900",
+      "datos_contacto": "penealegre@gmail.com",
+      "ubicación": "Medellín"
+    },
+    {
+      "images": ["p5 (1).webp", "p5 (2).webp", "p5 (3).webp"],
+      "estado": "usado",
+      "descripción": "Disfruta de tus partidas en otro nivel con Redragon",
+      "valor": "219.900",
+      "datos_contacto": "npmrunstart@gmail.com",
+      "ubicación": "Calí"
+    },
+    {
+      "images": ["p6 (1).webp", "p6 (2).webp", "p6 (3).webp"],
+      "estado": "nuevo",
+      "descripción": "Con los WH-1000XM4, estarás solo tu música y tú.",
+      "valor": "1.199.000",
+      "datos_contacto": "santiago123@gmail.com",
+      "ubicación": "Bogotá"
+    },
+    {
+      "images": ["p7 (1).webp", "p7 (2).webp", "p7 (3).webp"],
+      "estado": "nuevo",
+      "descripción": "iPad 10.2 (8va Generación) Wi-Fi + Cellular - 128 GB - Gris Espacial.",
+      "valor": "2.857.000",
+      "datos_contacto": "esteban890@gmail.com",
+      "ubicación": "Calí"
+    },
+    {
+      "images": ["p8 (1).webp", "p8 (2).webp", "p8 (3).webp"],
+      "estado": "usado",
+      "descripción": "Tarjeta Gráfica Externa Aorus Rtx 3080 Gaming Box, Sistema",
+      "valor": "1.700.900",
+      "datos_contacto": "nategentile@gmail.com",
+      "ubicación": "Bogotá"
+    },
+    {
+      "images": ["p9 (1).webp", "p9 (2).webp", "p9 (3).webp"],
+      "estado": "nuevo",
+      "descripción": "Repetidor, Router Tenda AC7 negro 100V/240V",
+      "valor": "155.000",
+      "datos_contacto": "claro78@gmail.com",
+      "ubicación": "Calí"
+    },
+    {
+      "images": ["p10 (1).webp", "p10 (2).webp", "p10 (3).webp"],
+      "estado": "nuevo",
+      "descripción": "Raspberry Pi 4 8gb Ram Original - Disponibilidad Inmediata!",
+      "valor": "549.900",
+      "datos_contacto": "estabn789@gmail.com",
+      "ubicación": "Bogotá"
+    },
+    {
+      "images": ["p11 (1).webp", "p11 (2).webp", "p11 (3).webp"],
+      "estado": "usado",
+      "descripción": "Silla Ergonomica Giratoria Silla Computador Oficina Barata",
+      "valor": "275.000",
+      "datos_contacto": "julio90@gmail.com",
+      "ubicación": "Cartagena"
+    },
+    {
+      "images": ["p12 (1).webp", "p12 (2).webp", "p12 (3).webp"],
+      "estado": "nuevo",
+      "descripción": "Mesa Computador Cama - Plegable",
+      "valor": "66.000",
+      "datos_contacto": "6789346",
+      "ubicación": "Santa Marta"
+    },
+    {
+      "images": ["p13 (1).webp", "p13 (2).webp", "p13 (3).webp"],
+      "estado": "nuevo",
+      "descripción": "Soporte De Brazo Monitor A Escritorio Nb F80 17 A 27",
+      "valor": "66.000",
+      "datos_contacto": "6789346",
+      "ubicación": "Santa Marta"
+    },
+    {
+      "images": ["p14 (1).webp", "p14 (2).webp", "p14 (3).webp"],
+      "estado": "usado",
+      "descripción": "Cama Multifuncional 120 Cm Ancho Maderkit M01290-prm",
+      "valor": "1.599.000",
+      "datos_contacto": "327890342",
+      "ubicación": "Barranquilla"
+    },
+    {
+      "images": ["p15 (1).webp", "p15 (2).webp", "p15 (3).webp"],
+      "estado": "nuevo",
+      "descripción": "Tugó Silla De Comedor Demina Gris",
+      "valor": "139.990",
+      "datos_contacto": "327890342",
+      "ubicación": "Bucaramanga"
+    },
+    {
+      "images": ["p16 (1).webp", "p16 (2).webp", "p16 (3).webp"],
+      "estado": "usado",
+      "descripción": "Tugó Sofá 3p Budapest Recli/elect Gris",
+      "valor": "6.499.000",
+      "datos_contacto": "32908765",
+      "ubicación": "Santa Marta"
+    },
+    {
+      "images": ["p17 (1).webp", "p17 (2).webp", "p17 (3).webp"],
+      "estado": "usado",
+      "descripción": "Tp-link, Cámara Ip Wifi Robótica, Full Hd / Audio, Tapo C200",
+      "valor": "159.900",
+      "datos_contacto": "9004567812",
+      "ubicación": "Barranquilla"
+    },
+    {
+      "images": ["p18 (1).webp", "p18 (2).webp", "p18 (3).webp"],
+      "estado": "nuevo",
+      "descripción": "Mesa De Centro Auxiliar Cuadrada Caramelo",
+      "valor": "160.000",
+      "datos_contacto": "781112256",
+      "ubicación": "Barranquilla"
+    },
+    {
+      "images": ["p19 (1).webp", "p19 (2).webp", "p19 (3).webp"],
+      "estado": "nuevo",
+      "descripción": "Cicla Todo Terreno",
+      "valor": "678.000",
+      "datos_contacto": "781112256",
+      "ubicación": "Bucaramanfa"
+    },
+    {
+      "images": ["p20 (1).webp", "p20 (2).webp", "p20 (3).webp"],
+      "estado": "nuevo",
+      "descripción": "Tenis Mujer Fila Ws Mindblower Blanco",
+      "valor": "143.940",
+      "datos_contacto": "santiago.dev06@gmail.com",
+      "ubicación": "Calí"
+    }
+  ]
+}

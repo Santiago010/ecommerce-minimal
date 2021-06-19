@@ -1,0 +1,32 @@
+.Modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background-color: rgba(62, 62, 62, 0.8);
+}
+
+.modal__container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.container__close {
+  border: none;
+  margin: 2em;
+  padding: 0.5em;
+  border-radius: 25%;
+  cursor: pointer;
+  color: var(--color-fonts);
+  background-color: var(--color-secundary);
+  transition-property: color background-color;
+  transition-timing-function: cubic-bezier(0.785, 0.135, 0.15, 0.86);
+  transition-duration: 0.2s;
+}
+
+.container__close:hover {
+  color: var(--color-secundary);
+  background-color: var(--color-fonts);
+}

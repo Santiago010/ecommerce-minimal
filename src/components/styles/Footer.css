@@ -1,0 +1,106 @@
+.Layout__footer {
+  margin-top: 80px;
+  padding: 1em;
+  height: min-content;
+  font-family: var(--font-principal);
+  background-color: var(--color-background-products);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  user-select: none;
+}
+
+.footer__repositories {
+  color: var(--color-fonts);
+  margin: 0.5em;
+  display: flex;
+}
+
+.repositories__contributor-1 a,
+.repositories__contributor-2 a {
+  margin: 0 0.4em;
+  font-size: 12px;
+  text-decoration: none;
+  background-color: var(--color-fonts);
+  padding: 0.2em;
+  color: var(--color-secundary);
+  border-radius: 0.2em;
+}
+
+.fa-github-alt {
+  margin: 0.1em;
+  font-size: 1.5em;
+  transform: rotate(0turn);
+  transition-property: transform;
+  transition-timing-function: cubic-bezier(0.47, 0, 0.745, 0.715);
+  transition-duration: 0.5s;
+  transition-delay: 0.1s;
+}
+
+.fa-github-alt:hover {
+  transform: rotate(0.2turn);
+}
+
+.footer__links {
+  margin: 5px 0 20px 0;
+  font-size: 15px;
+  width: 80%;
+  display: flex;
+  justify-content: space-between;
+  opacity: 0.8;
+}
+
+.Links__childs {
+  text-decoration: none;
+  color: var(--color-principal);
+  font-family: var(--font-principal);
+  font-size: 1.2em;
+  transition-property: text-decoration;
+  transition-timing-function: cubic-bezier(0.47, 0, 0.745, 0.715);
+  transition-duration: 0.3s;
+  transition-delay: 0.1s;
+}
+.Links__childs:hover {
+  text-decoration: underline;
+}
+
+.footer__code a {
+  text-decoration: none;
+  font-family: var(--font-principal);
+  animation-name: changeColorCode;
+  animation-duration: 1s;
+  animation-iteration-count: infinite;
+  animation-timing-function: cubic-bezier(0.47, 0, 0.745, 0.715);
+  animation-direction: alternate-reverse;
+  animation-fill-mode: backwards;
+}
+
+.footer__description {
+  width: 92%;
+  color: var(--color-fonts);
+  margin: 15px 0 10px 0;
+  font-family: var(--font-principal);
+  font-size: 0.8em;
+  letter-spacing: -1px;
+  text-align: center;
+}
+
+@keyframes changeColorCode {
+  to {
+    color: rgba(62, 62, 62, 0.1);
+  }
+
+  from {
+    color: rgba(62, 62, 62, 1);
+  }
+}
+
+@media (min-width: 700px) {
+  .footer__links {
+    display: none;
+  }
+  .footer__description {
+    max-width: 500px;
+  }
+}

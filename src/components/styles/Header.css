@@ -1,0 +1,88 @@
+body {
+  box-sizing: border-box;
+}
+
+.Layout__header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: min-content;
+  padding: 1em;
+}
+
+.header__nav {
+  max-width: 400px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header__nav a {
+  text-decoration: none;
+  font-family: var(--font-principal);
+  color: var(--color-fonts);
+  margin: 0 0.5em;
+  font-size: 1.2em;
+  font-weight: 800;
+  transition-property: color;
+  transition-duration: 0.2s;
+  transition-timing-function: cubic-bezier(0.54, 0.01, 0.88, 0.79);
+}
+
+.header__nav a:hover {
+  color: var(--color-principal);
+}
+
+.header__nav button {
+  border: none;
+  background-color: transparent;
+  font-family: var(--font-principal);
+  color: var(--color-fonts);
+  margin: 0 0.5em;
+  font-size: 1.2em;
+  font-weight: 800;
+  transition-property: color;
+  transition-duration: 0.2s;
+  transition-timing-function: cubic-bezier(0.54, 0.01, 0.88, 0.79);
+  cursor: pointer;
+}
+
+.header__nav button:hover {
+  color: var(--color-principal);
+}
+
+.header__shop p {
+  color: var(--color-fonts);
+  font-family: var(--font-principal);
+  display: inline;
+  margin: 0 0.5em;
+  font-weight: 800;
+}
+
+.header__shop a {
+  text-decoration: none;
+  color: var(--color-principal);
+  margin: 0 0.5em;
+}
+
+.header__shop a i {
+  font-size: 1.5em;
+  transition-property: color;
+  transition-timing-function: cubic-bezier(0.54, 0.01, 0.88, 0.79);
+  transition-duration: 0.2s;
+}
+.header__shop a i:hover {
+  color: var(--color-fonts);
+}
+
+.fa-home {
+  font-size: 1.5em;
+  color: var(--color-fonts);
+  transition-property: color;
+  transition-timing-function: cubic-bezier(0.54, 0.01, 0.88, 0.79);
+  transition-duration: 0.2s;
+}
+
+.fa-home:hover {
+  color: var(--color-principal);
+}
